@@ -4,7 +4,7 @@
 <div align="center">
   <h1> NAFT – An NFT Marketplace </h1>
   <p> A marketplace where we can find the NFT with the real ownership helds and the decentralized system is introduced.</p>
-  <img src="NFT%40Marketplace/assets/images/screenshot.PNG" alt="Woody Furniture Website Screenshot" width="100%"/>
+  <img src="NFT%20Marketplace/assets/images/screenshot.PNG" alt="Woody Furniture Website Screenshot" width="100%"/>
 </div>
 
 ---
