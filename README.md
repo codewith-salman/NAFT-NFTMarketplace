@@ -18,7 +18,9 @@
 <br />
 
 <!-- 🔰 PROJECT LOGO -->
-<img src="NFT%20Marketplace/assets/images/logo.png" alt="NAFT Logo" width="120"/>
+<div align="center" style="background-color:#0f172a; padding:20px; border-radius:12px;">
+  <img src="NFT%20Marketplace/assets/images/logo.png" alt="NAFT Logo" width="120"/>
+</div>
 
 <br />
 <br />
