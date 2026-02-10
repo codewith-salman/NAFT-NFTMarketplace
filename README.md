@@ -4,9 +4,9 @@
 <div align="center">
 
 <!-- 🔰 BADGES -->
-![GitHub repo size](https://img.shields.io/github/repo-size/codewith-salman/NFT%20Marketplace)
-![GitHub stars](https://img.shields.io/github/stars/codewith-salman/naft-nft-marketplace?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewith-salman/naft-nft-marketplace?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/codewith-salman/NAFT-NFTMarketplace)
+![GitHub stars](https://img.shields.io/github/stars/codewith-salman/NAFT-NFTMarketplace?style=social)
+![GitHub forks](https://img.shields.io/github/forks/codewith-salman/NAFT-NFTMarketplace?style=social)
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Project-brightgreen?style=for-the-badge&logo=vercel)](https://naft-nft-marketplace-rouge.vercel.app/)
 
@@ -18,9 +18,13 @@
 <br />
 
 <!-- 🔰 PROJECT LOGO -->
-<div align="center" style="background-color:#0f172a; padding:20px; border-radius:12px;">
-  <img src="NFT%20Marketplace/assets/images/logo.png" alt="NAFT Logo" width="120"/>
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" bgcolor="#000000" style="padding:20px;">
+      <img src="NFT%20Marketplace/assets/images/logo.png" alt="NAFT Logo" width="120">
+    </td>
+  </tr>
+</table>
 
 <br />
 <br />
