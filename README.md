@@ -4,7 +4,7 @@
 <div align="center">
 
 <!-- 🔰 BADGES -->
-![GitHub repo size](https://img.shields.io/github/repo-size/codewith-salman/naft-nft-marketplace)
+![GitHub repo size](https://img.shields.io/github/repo-size/codewith-salman/NFT%20Marketplace)
 ![GitHub stars](https://img.shields.io/github/stars/codewith-salman/naft-nft-marketplace?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/codewith-salman/naft-nft-marketplace?style=social)
 
