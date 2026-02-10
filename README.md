@@ -2,39 +2,105 @@
 
 <br />
 <div align="center">
-  <h1> NAFT – An NFT Marketplace </h1>
-  <p> A marketplace where we can find the NFT with the real ownership helds and the decentralized system is introduced.</p>
-  <img src="NFT%20Marketplace/assets/images/screenshot.PNG" alt="Woody Furniture Website Screenshot" width="100%"/>
+
+<!-- 🔰 BADGES -->
+![GitHub repo size](https://img.shields.io/github/repo-size/codewith-salman/naft-nft-marketplace)
+![GitHub stars](https://img.shields.io/github/stars/codewith-salman/naft-nft-marketplace?style=social)
+![GitHub forks](https://img.shields.io/github/forks/codewith-salman/naft-nft-marketplace?style=social)
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Project-brightgreen?style=for-the-badge&logo=vercel)](https://naft-nft-marketplace-rouge.vercel.app/)
+
+[![GitHub Follow](https://img.shields.io/github/followers/codewith-salman?style=social)](https://github.com/codewith-salman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Salman%20Arshad-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/muhammad-salmanarshad/)
+[![Figma](https://img.shields.io/badge/Figma-codewithsalman-black?style=social&logo=figma)](https://www.figma.com/@codewithsalman)
+[![Email](https://img.shields.io/badge/Email-msalmanwebdev%40gmail.com-red?style=social&logo=gmail)](mailto:msalmanwebdev@gmail.com)
+
+<br />
+
+<!-- 🔰 PROJECT LOGO -->
+<img src="NFT%20Marketplace/assets/images/logo.png" alt="NAFT Logo" width="120"/>
+
+<br />
+<br />
+
+<h1 align="center">🖼️ NAFT – NFT Marketplace</h1>
+
+A modern and responsive **NFT Marketplace UI**  
+designed to showcase digital assets with ownership transparency and a decentralized concept.
+
+<a href="https://naft-nft-marketplace-rouge.vercel.app/"><strong>➥ Live Demo</strong></a>
+
 </div>
 
 ---
 
-## About The Project
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>📑 Table of Contents</summary>
+  <ol>
+    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#features">Features</a></li>
+    <li><a href="#built-with">Built With</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
 
-**Woody** is a clean, stylish, and conversion-focused landing page for a NFT and other like brand. Designed with a minimalist aesthetic and smooth UI flow, this project is perfect for representing premium furniture collections and modern NFT design services.
+---
 
-It includes well-structured sections for product highlights, collections, offers, testimonials, and CTA — all fully responsive across devices. The project emphasizes clean visual hierarchy, brand consistency, and a polished user experience, making it suitable for portfolio use or as a front-end base for an NFT marketplace.
+## 📖 About The Project
 
-This is a **UI-focused project** built for presentation, design practice, and client demos — no backend integration included.
+<img src="NFT%20Marketplace/assets/images/screenshot.PNG" alt="NAFT NFT Marketplace Screenshot" width="100%" />
 
-### Built With
+**NAFT** is a clean, modern, and UI-focused NFT marketplace design built to represent digital ownership and blockchain-inspired platforms.
 
-- HTML5  
-- CSS3 
+The project emphasizes:
+- Clear NFT presentation  
+- Clean layout hierarchy  
+- Modern Web3-style UI  
+- Responsive design for all devices  
 
-### Features
+This project is ideal for:
+- NFT marketplace UI demos  
+- Web3 portfolio projects  
+- Front-end layout practice  
+- Client UI presentations  
 
-- Elegant hero section.  
-- Product and category showcase  
-- Responsive layout for desktop, tablet, and mobile  
-- Interactive buttons and hover animations  
-- Clean and modern design principles  
-- Ideal for NFT and Tokens UI demos  
+This is a **front-end only project**, built for learning, UI practice, and portfolio showcasing — no backend or blockchain integration included.
 
-### Contact
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-**Muhammad Salman Arshad**  
-🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-salmanarshad/)  
-📧 [msalmanwebdev@gmail.com](mailto:msalmanwebdev@gmail.com)
+---
 
-<p align="right">(<a href="#top">Back to Top</a>)</p>
+## ✨ Features
+
+- Modern NFT marketplace landing page  
+- Clean and visually engaging hero section  
+- NFT cards and category sections  
+- Fully responsive layout (desktop, tablet, mobile)  
+- Smooth hover effects and UI interactions  
+- Minimal and professional design approach  
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+---
+
+## 🛠️ Built With
+
+This project is built using:
+
+- **HTML5**  
+- **CSS3**
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+---
+
+## 📬 Contact
+
+**Muhammad Salman Arshad**
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/muhammad-salmanarshad/  
+- 🎨 **Figma:** https://www.figma.com/@codewithsalman  
+- 📧 **Email:** [msalmanwebdev@gmail.com](mailto:msalmanwebdev@gmail.com)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
