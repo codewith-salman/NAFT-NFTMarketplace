@@ -27,7 +27,6 @@
 </table>
 
 <br />
-<br />
 
 <h1 align="center">🖼️ NAFT – NFT Marketplace</h1>
 
@@ -73,8 +72,6 @@ This project is ideal for:
 
 This is a **front-end only project**, built for learning, UI practice, and portfolio showcasing — no backend or blockchain integration included.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## ✨ Features
@@ -86,8 +83,6 @@ This is a **front-end only project**, built for learning, UI practice, and portf
 - Smooth hover effects and UI interactions  
 - Minimal and professional design approach  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## 🛠️ Built With
@@ -96,8 +91,6 @@ This project is built using:
 
 - **HTML5**  
 - **CSS3**
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
